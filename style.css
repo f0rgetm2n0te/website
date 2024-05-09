@@ -1,0 +1,47 @@
+
+	header{
+		background: radial-gradient(lightpink, lightyellow);
+		font-size: 30px;
+		text-align: center;
+	}
+
+	article {
+		box-shadow: 20px 5px 20px 10px hotpink;
+		font-size: 4;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}	
+
+	html{
+		background-color: lightpink;
+	}
+
+	section {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+
+		width: 800px;
+		border: 2px dotted hotpink;
+		line-height: 3;
+		word-break: keep-all;
+		font-size: 16px;
+		border-radius: 28px;
+		padding: 10px;
+		background: radial-gradient(lightpink, lemonchiffon);
+		box-shadow: 20px 5px 20px 10px hotpink;
+	}
+
+	h2 {
+		text-align: center;
+		background: radial-gradient(white, lightpink);
+		border-radius: 100px;
+	}
+
+	p{
+		line-height: 2;
+	}
+}
